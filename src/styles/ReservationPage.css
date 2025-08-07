@@ -63,3 +63,17 @@
         padding: 1rem;
     }
 }
+
+.error {
+    color: red;
+    font-size: 0.85rem;
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.success {
+    margin-top: 1rem;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
